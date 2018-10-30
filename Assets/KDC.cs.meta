@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 4b51472deeab0b5429895d0812203ce0
+timeCreated: 1525238633
+licenseType: Pro
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - FNameField: {fileID: 114631719098516504, guid: 699a57c9220f24e48849cc0441d06eed,
+      type: 2}
+  - LNameField: {fileID: 114614577355480992, guid: 33acf5cdc9ad24a4288a6b948710fb21,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
